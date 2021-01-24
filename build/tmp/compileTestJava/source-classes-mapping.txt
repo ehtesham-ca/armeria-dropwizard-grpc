@@ -1,0 +1,7 @@
+example/armeria/grpc/HelloServiceTest.java
+ example.armeria.grpc.HelloServiceTest
+ example.armeria.grpc.HelloServiceTest$1
+ example.armeria.grpc.HelloServiceTest$2
+ example.armeria.grpc.HelloServiceTest$3
+ example.armeria.grpc.HelloServiceTest$4
+ example.armeria.grpc.HelloServiceTest$5
